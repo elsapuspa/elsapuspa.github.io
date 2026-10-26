@@ -6,7 +6,7 @@ Personal profile for research interests, professional experience, education, pro
 
 - `index.html` — site content
 - `assets/style.css` — layout and responsive styling
-- `assets/cv.pdf` — downloadable CV, when included
+- `assets/cv.pdf` — downloadable PhD application CV
 - `.github/workflows/pages.yml` — deploys the site from `main`
 
 Push changes to `main` to publish an update. The Pages workflow copies `index.html`, `.nojekyll`, and `assets/` into the deployment artifact.
